@@ -1,3 +1,5 @@
+### 我只向dmm规则添加了一行新的dmm.ai,其余无修改,请使用原repo最新规则
+---
 # Rules And Scripts
 
 ## 前言
